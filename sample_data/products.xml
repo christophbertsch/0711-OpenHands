@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>PROD001</id>
+        <title>Premium Wireless Headphones</title>
+        <description>High-quality wireless headphones with noise cancellation</description>
+        <price>199.99</price>
+        <category>Electronics > Audio > Headphones</category>
+        <brand>AudioTech</brand>
+        <sku>AT-WH-001</sku>
+        <attributes>
+            <color>Black</color>
+            <weight>250g</weight>
+            <battery_life>30 hours</battery_life>
+            <connectivity>Bluetooth 5.0</connectivity>
+            <warranty>2 years</warranty>
+        </attributes>
+        <image>https://example.com/images/headphones-main.jpg</image>
+        <image>https://example.com/images/headphones-side.jpg</image>
+    </product>
+
+    <product>
+        <id>PROD002</id>
+        <title>Smart Fitness Watch</title>
+        <description>Advanced fitness tracking with heart rate monitor</description>
+        <price>299.99</price>
+        <category>Electronics > Wearables > Smartwatches</category>
+        <brand>FitTech</brand>
+        <sku>FT-SW-002</sku>
+        <attributes>
+            <color>Silver</color>
+            <display>1.4 inch AMOLED</display>
+            <water_resistance>5ATM</water_resistance>
+            <battery_life>7 days</battery_life>
+            <sensors>Heart Rate, GPS, Accelerometer</sensors>
+        </attributes>
+        <image>https://example.com/images/smartwatch-main.jpg</image>
+        <image>https://example.com/images/smartwatch-apps.jpg</image>
+    </product>
+
+    <product>
+        <id>PROD003</id>
+        <title>Organic Cotton T-Shirt</title>
+        <description>Comfortable organic cotton t-shirt for everyday wear</description>
+        <price>29.99</price>
+        <category>Clothing > Men > T-Shirts</category>
+        <brand>EcoWear</brand>
+        <sku>EW-TS-003</sku>
+        <attributes>
+            <material>100% Organic Cotton</material>
+            <color>Navy Blue</color>
+            <sizes>S, M, L, XL, XXL</sizes>
+            <care_instructions>Machine wash cold</care_instructions>
+            <certification>GOTS Certified</certification>
+        </attributes>
+        <image>https://example.com/images/tshirt-front.jpg</image>
+        <image>https://example.com/images/tshirt-back.jpg</image>
+    </product>
+
+    <product>
+        <id>PROD004</id>
+        <title>Professional Coffee Maker</title>
+        <description>Programmable coffee maker with thermal carafe</description>
+        <price>149.99</price>
+        <category>Home &amp; Kitchen > Small Appliances > Coffee Makers</category>
+        <brand>BrewMaster</brand>
+        <sku>BM-CM-004</sku>
+        <attributes>
+            <capacity>12 cups</capacity>
+            <material>Stainless Steel</material>
+            <features>Programmable, Auto-shutoff, Thermal carafe</features>
+            <dimensions>14 x 8 x 12 inches</dimensions>
+            <power>1200W</power>
+        </attributes>
+        <image>https://example.com/images/coffee-maker-main.jpg</image>
+        <image>https://example.com/images/coffee-maker-carafe.jpg</image>
+    </product>
+
+    <product>
+        <id>PROD005</id>
+        <title>Yoga Mat</title>
+        <description>Non-slip yoga mat for all types of yoga practice</description>
+        <price>39.99</price>
+        <category>Sports &amp; Outdoors > Exercise &amp; Fitness > Yoga</category>
+        <brand>ZenFit</brand>
+        <sku>ZF-YM-005</sku>
+        <attributes>
+            <material>TPE (Thermoplastic Elastomer)</material>
+            <thickness>6mm</thickness>
+            <dimensions>72 x 24 inches</dimensions>
+            <color>Purple</color>
+            <features>Non-slip, Eco-friendly, Lightweight</features>
+        </attributes>
+        <image>https://example.com/images/yoga-mat-rolled.jpg</image>
+        <image>https://example.com/images/yoga-mat-unrolled.jpg</image>
+    </product>
+</products>

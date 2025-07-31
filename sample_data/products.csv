@@ -1,0 +1,11 @@
+id,title,description,price,category,brand,sku,color,material,dimensions,features
+PROD001,Premium Wireless Headphones,High-quality wireless headphones with noise cancellation,199.99,Electronics > Audio > Headphones,AudioTech,AT-WH-001,Black,,,"Bluetooth 5.0, 30h battery, Noise cancellation"
+PROD002,Smart Fitness Watch,Advanced fitness tracking with heart rate monitor,299.99,Electronics > Wearables > Smartwatches,FitTech,FT-SW-002,Silver,,1.4 inch AMOLED,"Heart Rate, GPS, 5ATM water resistance"
+PROD003,Organic Cotton T-Shirt,Comfortable organic cotton t-shirt for everyday wear,29.99,Clothing > Men > T-Shirts,EcoWear,EW-TS-003,Navy Blue,100% Organic Cotton,,"GOTS Certified, Machine washable"
+PROD004,Professional Coffee Maker,Programmable coffee maker with thermal carafe,149.99,Home & Kitchen > Small Appliances > Coffee Makers,BrewMaster,BM-CM-004,,Stainless Steel,14 x 8 x 12 inches,"12 cups, Programmable, Thermal carafe"
+PROD005,Yoga Mat,Non-slip yoga mat for all types of yoga practice,39.99,Sports & Outdoors > Exercise & Fitness > Yoga,ZenFit,ZF-YM-005,Purple,TPE,72 x 24 x 0.24 inches,"Non-slip, Eco-friendly, 6mm thick"
+PROD006,Bluetooth Speaker,Portable waterproof Bluetooth speaker,79.99,Electronics > Audio > Speakers,SoundWave,SW-BS-006,Red,Aluminum,6 x 3 x 3 inches,"IPX7 waterproof, 20h battery, 360° sound"
+PROD007,Running Shoes,Lightweight running shoes with cushioned sole,129.99,Sports & Outdoors > Athletic Shoes > Running,RunFast,RF-RS-007,White/Blue,Mesh/Rubber,,"Breathable mesh, Cushioned sole, Lightweight"
+PROD008,Stainless Steel Water Bottle,Insulated water bottle keeps drinks cold for 24h,24.99,Sports & Outdoors > Water Bottles,HydroMax,HM-WB-008,Silver,Stainless Steel,10.5 x 2.8 inches,"24h cold, 12h hot, BPA-free"
+PROD009,Wireless Charging Pad,Fast wireless charging pad for smartphones,34.99,Electronics > Accessories > Chargers,ChargeTech,CT-WC-009,Black,Plastic/Metal,4 x 4 x 0.5 inches,"10W fast charging, LED indicator, Non-slip"
+PROD010,Ergonomic Office Chair,Adjustable ergonomic office chair with lumbar support,249.99,Furniture > Office Furniture > Chairs,ComfortSeat,CS-OC-010,Gray,Mesh/Plastic,26 x 26 x 42-46 inches,"Lumbar support, Height adjustable, 360° swivel"
