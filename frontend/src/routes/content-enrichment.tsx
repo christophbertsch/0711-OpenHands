@@ -1,8 +1,8 @@
-import React from 'react';
-import ContentEnrichmentDashboard from '../components/content-enrichment/ContentEnrichmentDashboard';
+import React from "react";
+import ContentEnrichmentDashboard from "../components/content-enrichment/ContentEnrichmentDashboard";
 
-const ContentEnrichmentPage: React.FC = () => {
+function ContentEnrichmentPage() {
   return <ContentEnrichmentDashboard />;
-};
+}
 
 export default ContentEnrichmentPage;
