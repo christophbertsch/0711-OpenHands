@@ -1,0 +1,11 @@
+[H[2J
+  Your application is ready~! 🚀
+
+  - Local:      http://0.0.0.0:8080
+  - Network:    http://172.17.0.2:8080
+
+ LOGS 
+
+  [20:49:24] 200 ─ 3.05ms ─ /content-enrichment
+  [20:49:27] 200 ─ 2.09ms ─ /content-enrichment
+  [20:49:27] 200 ─ 0.82ms ─ /
