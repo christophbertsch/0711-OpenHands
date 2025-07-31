@@ -879,19 +879,19 @@ class DataEnricher:
         score = 0.0
 
         # Required fields (70% of score)
-        for field in required_fields:
-            if getattr(product, field):
+        for field_name in required_fields:
+            if getattr(product, field_name):
                 score += 14  # 70/5 = 14 points each
 
         # Optional fields (30% of score)
-        for field in optional_fields:
-            value = getattr(product, field)
+        for field_name in optional_fields:
+            value = getattr(product, field_name)
             if value:
-                if field == 'attributes' and isinstance(value, dict):
+                if field_name == 'attributes' and isinstance(value, dict):
                     score += min(
                         7.5, len(value) * 1.5
                     )  # Up to 7.5 points for attributes
-                elif field == 'images' and isinstance(value, list):
+                elif field_name == 'images' and isinstance(value, list):
                     score += min(7.5, len(value) * 2.5)  # Up to 7.5 points for images
                 else:
                     score += 7.5  # 30/4 = 7.5 points each for brand, sku

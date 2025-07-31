@@ -727,17 +727,17 @@ class AnalyticsProcessor:
         score = 0.0
 
         # Required fields (70% of score)
-        for field in required_fields:
-            if getattr(product, field):
+        for field_name in required_fields:
+            if getattr(product, field_name):
                 score += 14  # 70/5 = 14 points each
 
         # Optional fields (30% of score)
-        for field in optional_fields:
-            value = getattr(product, field)
+        for field_name in optional_fields:
+            value = getattr(product, field_name)
             if value:
-                if field == 'attributes' and isinstance(value, dict) and value:
+                if field_name == 'attributes' and isinstance(value, dict) and value:
                     score += 7.5
-                elif field == 'images' and isinstance(value, list) and value:
+                elif field_name == 'images' and isinstance(value, list) and value:
                     score += 7.5
                 elif value:
                     score += 7.5
