@@ -230,7 +230,7 @@ export default function MainApp() {
         />
       )}
 
-      {config.data?.FEATURE_FLAGS.ENABLE_BILLING &&
+      {config.data?.FEATURE_FLAGS?.ENABLE_BILLING &&
         config.data?.APP_MODE === "saas" &&
         settings?.IS_NEW_USER && <SetupPaymentModal />}
     </div>

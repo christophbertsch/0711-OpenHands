@@ -18,7 +18,7 @@ export const clientLoader = async ({ request }: Route.ClientLoaderArgs) => {
   }
 
   const shouldHideMicroagentManagement =
-    config?.FEATURE_FLAGS.HIDE_MICROAGENT_MANAGEMENT;
+    config?.FEATURE_FLAGS?.HIDE_MICROAGENT_MANAGEMENT;
 
   if (shouldHideMicroagentManagement && pathname === "/microagent-management") {
     return redirect("/");

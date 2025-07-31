@@ -35,10 +35,10 @@ export function Sidebar() {
 
   // TODO: Remove HIDE_LLM_SETTINGS check once released
   const shouldHideLlmSettings =
-    config?.FEATURE_FLAGS.HIDE_LLM_SETTINGS && config?.APP_MODE === "saas";
+    config?.FEATURE_FLAGS?.HIDE_LLM_SETTINGS && config?.APP_MODE === "saas";
 
   const shouldHideMicroagentManagement =
-    config?.FEATURE_FLAGS.HIDE_MICROAGENT_MANAGEMENT;
+    config?.FEATURE_FLAGS?.HIDE_MICROAGENT_MANAGEMENT;
 
   React.useEffect(() => {
     if (shouldHideLlmSettings) return;
