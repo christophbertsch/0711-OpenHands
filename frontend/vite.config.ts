@@ -25,6 +25,7 @@ export default defineConfig(({ mode }) => {
   const FE_PORT = Number.parseInt(VITE_FRONTEND_PORT, 10);
 
   return {
+    publicDir: "public",
     plugins: [
       !process.env.VITEST && reactRouter(),
       viteTsconfigPaths(),

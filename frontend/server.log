@@ -1,0 +1,84 @@
+[H[2J
+  Your application is ready~! 🚀
+
+  - Local:      http://0.0.0.0:3001
+  - Network:    http://172.17.0.2:3001
+
+ LOGS 
+
+  [06:57:52] 200 ─ 2.85ms ─ /
+  [06:57:55] 200 ─ 0.68ms ─ /content-enrichment
+  [06:57:58] 200 ─ 0.90ms ─ /locales/en/translation.json
+  [06:58:07] 200 ─ 0.59ms ─ /
+  [06:58:07] 200 ─ 1.19ms ─ /assets/manifest-132b39f0.js
+  [06:58:07] 200 ─ 2.23ms ─ /assets/index-yKbcr7Pf.js
+  [06:58:07] 200 ─ 2.89ms ─ /assets/react-redux-B5osdedR.js
+  [06:58:07] 200 ─ 3.81ms ─ /assets/chunk-C37GKA54-CBbYr_fP.js
+  [06:58:07] 200 ─ 4.55ms ─ /assets/entry.client-VFLPI5E5.js
+  [06:58:07] 200 ─ 4.92ms ─ /assets/module-5laXsVNO.js
+  [06:58:07] 200 ─ 5.27ms ─ /assets/root-B4FjYe_V.css
+  [06:58:07] 200 ─ 0.79ms ─ /assets/index-DbrbOxWj.js
+  [06:58:07] 200 ─ 0.96ms ─ /assets/open-hands-axios-CtirLpss.js
+  [06:58:07] 200 ─ 0.52ms ─ /assets/store-Bya9Reqe.js
+  [06:58:07] 200 ─ 0.17ms ─ /assets/open-hands-Ce72Fmtl.js
+  [06:58:07] 200 ─ 0.31ms ─ /assets/custom-toast-handlers-CR9P-jKI.js
+  [06:58:07] 200 ─ 0.69ms ─ /assets/query-client-config-CJn-5u6A.js
+  [06:58:07] 200 ─ 1.41ms ─ /assets/i18next-CO45VQzB.js
+  [06:58:07] 200 ─ 2.03ms ─ /assets/preload-helper-BXl3LOEh.js
+  [06:58:07] 200 ─ 2.75ms ─ /assets/i18nInstance-DBIXdvxg.js
+  [06:58:07] 200 ─ 0.78ms ─ /assets/agent-state-CFaY3go2.js
+  [06:58:07] 200 ─ 0.96ms ─ /assets/retrieve-axios-error-message-CYr77e_f.js
+  [06:58:07] 200 ─ 1.06ms ─ /assets/mutation-B9dSlWD-.js
+  [06:58:07] 200 ─ 1.95ms ─ /assets/declaration-xyc84-tJ.js
+  [06:58:07] 200 ─ 2.20ms ─ /assets/index-cxP66Ws3.js
+  [06:58:07] 200 ─ 0.11ms ─ /assets/browser-slice-DabBaamq.js
+  [06:58:07] 200 ─ 0.56ms ─ /assets/root-Cm8RR6en.js
+  [06:58:08] 404 ─ 0.09ms ─ /locales/en-US@posix/translation.json
+  [06:58:08] 200 ─ 0.62ms ─ /locales/en/translation.json
+  [06:58:08] 200 ─ 0.65ms ─ /assets/home-BFU5UmRD.js
+  [06:58:08] 200 ─ 0.86ms ─ /assets/root-layout-DkXUOEqL.js
+  [06:58:08] 200 ─ 0.50ms ─ /api/options/config
+  [06:58:08] 200 ─ 0.61ms ─ /assets/use-create-conversation-IQqGjJUl.js
+  [06:58:08] 200 ─ 0.60ms ─ /assets/brand-button-3Z8FN4qR.js
+  [06:58:08] 200 ─ 0.59ms ─ /assets/useTranslation-BG59QWH_.js
+  [06:58:08] 200 ─ 0.42ms ─ /assets/use-settings-CSlhfPqo.js
+  [06:58:08] 200 ─ 0.49ms ─ /assets/branch-error-state-BSd8PBsv.js
+  [06:58:08] 200 ─ 1.23ms ─ /assets/settings-dropdown-input-Did5iUTK.js
+  [06:58:08] 200 ─ 1.34ms ─ /assets/useQuery-Cu2nkJ8V.js
+  [06:58:08] 200 ─ 1.45ms ─ /assets/use-config-jdwF3W4-.js
+  [06:58:08] 200 ─ 1.53ms ─ /assets/use-user-providers-CVWOd-tS.js
+  [06:58:08] 200 ─ 1.72ms ─ /assets/index-Do49u1Ze.js
+  [06:58:08] 200 ─ 2.40ms ─ /assets/chunk-S6H5EOGR-Bwn62IP6.js
+  [06:58:08] 200 ─ 0.24ms ─ /assets/index-DvLMSsrd.js
+  [06:58:08] 200 ─ 0.64ms ─ /assets/utils-KsbccAr1.js
+  [06:58:08] 200 ─ 0.79ms ─ /assets/use-optimistic-user-message-tdysaQ5t.js
+  [06:58:08] 200 ─ 0.97ms ─ /assets/tooltip-button-Bd3YrFXr.js
+  [06:58:08] 200 ─ 1.07ms ─ /assets/optional-tag-e1gRgM9y.js
+  [06:58:08] 200 ─ 1.24ms ─ /assets/iconBase-2PDVWRGH.js
+  [06:58:08] 200 ─ 0.92ms ─ /assets/chunk-BOOVDPB6-Dt9AQnxs.js
+  [06:58:08] 200 ─ 1.07ms ─ /assets/loading-spinner-D6qcLhqr.js
+  [06:58:08] 200 ─ 1.14ms ─ /assets/all-hands-logo-D_ipIZjH.js
+  [06:58:08] 200 ─ 1.25ms ─ /assets/plus-VpD79E1k.js
+  [06:58:08] 200 ─ 1.49ms ─ /assets/settings-BJuJgO6o.js
+  [06:58:08] 200 ─ 1.81ms ─ /assets/conversation-card-BnTfWkKs.js
+  [06:58:08] 200 ─ 0.28ms ─ /assets/help-link-CHYsvCwj.js
+  [06:58:08] 200 ─ 0.43ms ─ /assets/modal-backdrop-ve4Sk5I2.js
+  [06:58:08] 200 ─ 0.54ms ─ /assets/key-status-icon-DbpY1ViG.js
+  [06:58:08] 200 ─ 1.34ms ─ /assets/settings-utils-C--CGkWg.js
+  [06:58:08] 200 ─ 1.44ms ─ /assets/settings-input-i4i_IemM.js
+  [06:58:08] 200 ─ 1.68ms ─ /assets/use-save-settings-Bb4p0cGE.js
+  [06:58:08] 200 ─ 0.61ms ─ /assets/constants-DCYeMzG2.js
+  [06:58:08] 200 ─ 0.70ms ─ /assets/use-logout-Bpg8Vogf.js
+  [06:58:08] 200 ─ 0.81ms ─ /assets/handle-capture-consent-L0_Qc6gK.js
+  [06:58:08] 200 ─ 0.88ms ─ /assets/use-balance-Cbz3Ny8k.js
+  [06:58:08] 200 ─ 0.95ms ─ /assets/Trans-CI4prNur.js
+  [06:58:08] 200 ─ 1.05ms ─ /assets/use-conversation-id-0JHAicdF.js
+  [06:58:08] 200 ─ 0.46ms ─ /assets/vscode-url-helper-5Tt6LlE2.js
+  [06:58:08] 200 ─ 0.57ms ─ /assets/use-active-conversation-B8Aw3kE2.js
+  [06:58:08] 200 ─ 0.66ms ─ /assets/map-provider-g8SgAMsv.js
+  [06:58:08] 200 ─ 1.14ms ─ /assets/ws-client-provider-Dmsj8lkD.js
+  [06:58:08] 200 ─ 0.74ms ─ /assets/index-D_FgxOY2.js
+  [06:58:08] 200 ─ 1.38ms ─ /assets/features-animation-CM7oex5Y.js
+  [06:58:13] 200 ─ 0.82ms ─ /content-enrichment
+  [06:58:13] 404 ─ 0.10ms ─ /locales/en-US@posix/translation.json
+  [06:58:13] 200 ─ 0.82ms ─ /assets/content-enrichment-CBgxaTYR.js

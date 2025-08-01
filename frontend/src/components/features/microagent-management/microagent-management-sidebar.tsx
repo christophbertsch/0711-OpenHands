@@ -25,13 +25,13 @@ export function MicroagentManagementSidebar({
   const { data: repositories, isLoading } = useUserRepositories();
 
   useEffect(() => {
-    if (repositories) {
+    if (repositories && Array.isArray(repositories)) {
       const personalRepos: GitRepository[] = [];
       const organizationRepos: GitRepository[] = [];
       const otherRepos: GitRepository[] = [];
 
       repositories.forEach((repo: GitRepository) => {
-        const hasOpenHandsSuffix = repo.full_name.endsWith("/.openhands");
+        const hasOpenHandsSuffix = repo.full_name?.endsWith("/.openhands");
 
         if (repo.owner_type === "user" && hasOpenHandsSuffix) {
           personalRepos.push(repo);

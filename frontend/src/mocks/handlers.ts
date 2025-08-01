@@ -146,12 +146,28 @@ export const handlers = [
         full_name: "octocat/hello-world",
         git_provider: "github",
         is_public: true,
+        owner_type: "user",
       },
       {
         id: "2",
         full_name: "octocat/earth",
         git_provider: "github",
         is_public: true,
+        owner_type: "user",
+      },
+      {
+        id: "3",
+        full_name: "myorg/project/.openhands",
+        git_provider: "github",
+        is_public: false,
+        owner_type: "organization",
+      },
+      {
+        id: "4",
+        full_name: "octocat/personal/.openhands",
+        git_provider: "github",
+        is_public: true,
+        owner_type: "user",
       },
     ];
 
